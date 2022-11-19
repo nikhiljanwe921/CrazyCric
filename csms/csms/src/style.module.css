@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(13, 229, 168);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.menu a:hover{
+    text-decoration: none;
+   color:brown;
+}

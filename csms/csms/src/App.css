@@ -1,0 +1,42 @@
+
+
+  .center{
+    
+    margin-top: 50px;
+    margin-left:40px;
+    align-items: center;
+    height:130%;
+    width:85%;
+   
+
+    }
+    
+ 
+    .formdesign{
+       margin-top:20px;
+       margin-right:30px;
+       border: 1px transparent;
+       padding: 10px;
+   box-shadow: 5px 10px 5px 5px #888888;
+   border-radius: 10px 10px 10px 10px;
+    }
+    .loghere{
+      text-decoration: none;
+      font-size:20px;
+      margin-left:10px;
+    }
+    .loghere:hover {
+      color:rgb(236, 12, 12);
+    }
+
+    .formdesign1{
+      margin-top:20px;
+      margin-right:70px;
+      border: 1px transparent;
+      padding: 10px;
+  box-shadow: 5px 10px 5px 5px #888888;
+  border-radius: 10px 10px 10px 10px;
+   }
+
+  /*for chat*/
+  
